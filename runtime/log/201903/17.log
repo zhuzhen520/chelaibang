@@ -1,0 +1,880 @@
+---------------------------------------------------------------
+[ 2019-03-17T00:02:29+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.055988s] [吞吐率：17.86req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003148s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003168s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:13:44+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.067508s] [吞吐率：14.81req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.004314s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.004337s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:22:24+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.056150s] [吞吐率：17.81req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.002935s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.002953s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:25:25+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.063039s] [吞吐率：15.86req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003309s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003327s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:32:30+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.066305s] [吞吐率：15.08req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.002967s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.002985s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:43:45+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.066634s] [吞吐率：15.01req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003236s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003255s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:52:25+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.054138s] [吞吐率：18.47req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003119s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003140s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T00:55:27+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.056988s] [吞吐率：17.55req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.002973s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.002992s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:13:45+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.056736s] [吞吐率：17.63req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.002878s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.002897s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:32:32+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.058647s] [吞吐率：17.05req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003021s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003041s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:43:47+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.065050s] [吞吐率：15.37req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.004508s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.004536s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:48:39+08:00 ] 101.226.79.190 GET tp.74kd.cn/index.php/wap/public_api/get_best_product_list/first/0/limit/20
+[运行时间：0.030889s] [吞吐率：32.37req/s] [内存消耗：2,598.92kb] [文件加载：50]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'public_api',
+    2 => 'get_best_product_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+  'first' => '0',
+  'limit' => '20',
+)
+[ info ] [ RUN ] app\wap\controller\PublicApi->get_best_product_list[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/PublicApi.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:52:26+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.057280s] [吞吐率：17.46req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003745s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003769s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T01:55:28+08:00 ] 140.207.54.78 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.060949s] [吞吐率：16.41req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003771s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003796s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:03:48+08:00 ] 101.91.62.11 GET tp.74kd.cn/index.php/admin/login/captcha.html
+[运行时间：0.025318s] [吞吐率：39.50req/s] [内存消耗：1,809.38kb] [文件加载：48]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->captcha[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:23:40+08:00 ] 101.91.62.11 GET tp.74kd.cn/admin/order.store_order/getBadge
+[运行时间：0.031430s] [吞吐率：31.82req/s] [内存消耗：2,358.24kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'order.store_order',
+    2 => 'getBadge',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:23:40+08:00 ] 101.91.62.11 GET tp.74kd.cn/admin/login/index.html
+[运行时间：0.026042s] [吞吐率：38.40req/s] [内存消耗：1,952.18kb] [文件加载：51]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/admin/order.store_order/getBadge',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:43:49+08:00 ] 140.207.54.75 POST tp.74kd.cn/index.php/wap/wechat/notify.html
+[运行时间：0.063245s] [吞吐率：15.81req/s] [内存消耗：4,325.23kb] [文件加载：121]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'wechat',
+    2 => 'notify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'host' => 'tp.74kd.cn',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'content-type' => 'text/xml',
+  'content-length' => '800',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\wap\controller\Wechat->notify[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Wechat.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success_product [ RunTime:0.003891s ]
+[ info ] [ BEHAVIOR ] Run behavior\wechat\PaymentBehavior @wechat_pay_success [ RunTime:0.003912s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:48:29+08:00 ] 14.17.21.58 GET tp.74kd.cn/index.php/admin
+[运行时间：0.028661s] [吞吐率：34.89req/s] [内存消耗：2,361.39kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T02:48:29+08:00 ] 14.17.21.58 GET tp.74kd.cn/index.php/admin/login/index.html
+[运行时间：0.023238s] [吞吐率：43.03req/s] [内存消耗：1,810.43kb] [文件加载：49]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/index.php/admin',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T03:12:33+08:00 ] 101.91.62.11 GET tp.74kd.cn/index.php/admin/system.clear/index.html
+[运行时间：0.030384s] [吞吐率：32.91req/s] [内存消耗：2,219.16kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system.clear',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T03:12:33+08:00 ] 101.91.62.11 GET tp.74kd.cn/index.php/admin/login/index.html
+[运行时间：0.027194s] [吞吐率：36.77req/s] [内存消耗：1,810.43kb] [文件加载：49]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/index.php/admin/system.clear/index.html',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T03:43:39+08:00 ] 163.177.90.152 GET tp.74kd.cn/index.php/wap/auth_api/user_default_address
+[运行时间：0.038803s] [吞吐率：25.77req/s] [内存消耗：2,444.35kb] [文件加载：60]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'auth_api',
+    2 => 'user_default_address',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ BEHAVIOR ] Run behavior\wap\WapBehavior @wap_init [ RunTime:0.000014s ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'wap',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T03:43:39+08:00 ] 163.177.90.152 GET tp.74kd.cn/index.php/wap/login/index/ref/aHR0cDovL3RwLjc0a2QuY24vaW5kZXgucGhwL3dhcC9hdXRoX2FwaS91c2VyX2RlZmF1bHRfYWRkcmVzcw%3D%3D.html
+[运行时间：0.607633s] [吞吐率：1.65req/s] [内存消耗：4,591.27kb] [文件加载：147]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wap',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/index.php/wap/auth_api/user_default_address',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'aHR0cDovL3RwLjc0a2QuY24vaW5kZXgucGhwL3dhcC9hdXRoX2FwaS91c2VyX2RlZmF1bHRfYWRkcmVzcw==',
+)
+[ info ] [ BEHAVIOR ] Run behavior\wap\WapBehavior @wap_init [ RunTime:0.000013s ]
+[ info ] [ RUN ] app\wap\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/wap/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/wap/view/first/login/index.html [ array (
+  0 => 'ref',
+) ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T04:27:39+08:00 ] 14.17.21.58 GET tp.74kd.cn/admin/user.user/getOneIntegralList/page/1/limit/10/uid/2
+[运行时间：0.032360s] [吞吐率：30.90req/s] [内存消耗：2,348.56kb] [文件加载：56]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user.user',
+    2 => 'getOneIntegralList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'uid' => '2',
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T04:27:40+08:00 ] 14.17.21.58 GET tp.74kd.cn/admin/login/index.html
+[运行时间：0.032227s] [吞吐率：31.03req/s] [内存消耗：1,813.69kb] [文件加载：49]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/admin/user.user/getOneIntegralList/page/1/limit/10/uid/2',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T07:28:57+08:00 ] 14.17.3.65 GET tp.74kd.cn/index.php/admin/system.clear/index.html
+[运行时间：0.024126s] [吞吐率：41.45req/s] [内存消耗：2,219.16kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system.clear',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T07:28:58+08:00 ] 14.17.3.65 GET tp.74kd.cn/index.php/admin/login/index.html
+[运行时间：0.032855s] [吞吐率：30.44req/s] [内存消耗：1,810.43kb] [文件加载：49]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'referer' => 'http://tp.74kd.cn/index.php/admin/system.clear/index.html',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'tp.74kd.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www2/wwwroot/Zhu/CRMEB/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www2/wwwroot/Zhu/CRMEB/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T10:16:17+08:00 ] 222.240.44.115 HEAD tp.74kd.cn/
+[运行时间：0.033459s] [吞吐率：29.89req/s] [内存消耗：2,360.01kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp.74kd.cn',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.29.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-17T14:52:27+08:00 ] 222.240.44.115 HEAD tp.74kd.cn/
+[运行时间：0.034264s] [吞吐率：29.19req/s] [内存消耗：2,360.01kb] [文件加载：55]
+[ info ] [ LANG ] /www2/wwwroot/Zhu/CRMEB/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp.74kd.cn',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.29.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
