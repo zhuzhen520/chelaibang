@@ -1,22 +1,3 @@
-<p align="center">
-<img src="https://images.gitee.com/uploads/images/2018/1214/151026_2299df23_892944.gif" />
-</p>
-<h1 align="center"> CRMEB客户管理+电商管理系统</h1> 
-<p align="center">
-    <a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/OfficialWebsite-CRMEB-yellow.svg" />
-    </a>
-<a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/Licence-MIT-green.svg?style=flat" />
-    </a>
-    <a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/Edition-2.5-blue.svg" />
-    </a>
-     <a href="https://gitee.com/ZhongBangKeJi/CRMEB/repository/archive/master.zip">
-        <img src="https://img.shields.io/badge/download-59m-red.svg" />
-    </a>
-</p>
-
 ## 本项目还在不断开发完善中,如有建议或问题请[官方论坛](http://bbs.crmeb.net)
 
 # 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
